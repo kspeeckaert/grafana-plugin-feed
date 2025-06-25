@@ -78,6 +78,8 @@ def process_repo_list(filename:str, feed_dir:str) -> None:
     # Open plugins list file, each line is a separate entry
     with open (filename) as f:
         plugins: List[str] = f.read().strip().splitlines()
+    # Make sure there are no tailing spaces
+    plugins = [strip(plugin) for plugin in plugins]
     logging.info(f'Found {len(plugins)} plugins to process.')
     
     # Ensure folder exists
