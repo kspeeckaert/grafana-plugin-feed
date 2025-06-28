@@ -57,16 +57,18 @@ def generate_feed(plugin: str, feed_dir: str) -> None:
     version_data = retrieve_json(session, BASE_VERSION_URL.substitute(slug=plugin))
 
     logging.debug(f'Found {len(version_data)} tags.')
+    last_version = True
     for version in version_data['items']:
         fe = fg.add_entry()
         fe.title(f'{data['name']} {version['version']}')
         fe.link(href=plugin_catalog_url)
         fe.published(version.get('createdAt'))
         fe.updated(version.get('updatedAt'))
-        
-        fe.description(data.get('changelog'))
+        # Only add the changelog to the most recent version to avoid bloat
+        if last_version:
+            fe.description(data.get('changelog'))
+            last_version = False
         fe.guid(f'{version['pluginId']}-{version['id']}', permalink=False)
-
 
     output_file = Path(feed_dir,f'{plugin.replace('/', '_')}.xml')
     logging.info(f'Writing to {output_file}...')
