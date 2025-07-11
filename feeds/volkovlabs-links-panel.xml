@@ -1,6 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Business Links</title><link>https://github.com/volkovlabs/business-links</link><description>Streamlines navigation with external links, dashboards, and dropdowns.</description><category>links</category><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 03 Jul 2025 11:10:04 +0000</lastBuildDate><item><title>Business Links 1.2.1</title><link>https://grafana.com/grafana/plugins/volkovlabs-links-panel/</link><guid isPermaLink="false">1019-7261</guid><pubDate>Wed, 30 Apr 2025 12:30:20 +0000</pubDate></item><item><title>Business Links 1.4.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-links-panel/</link><guid isPermaLink="false">1019-7376</guid><pubDate>Mon, 02 Jun 2025 17:22:45 +0000</pubDate></item><item><title>Business Links 2.0.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-links-panel/</link><description>&lt;h1&gt;Changelog&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Business Links</title><link>https://github.com/volkovlabs/business-links</link><description>Streamlines navigation with external links, dashboards, and dropdowns.</description><category>links</category><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 11 Jul 2025 09:14:40 +0000</lastBuildDate><item><title>Business Links 1.2.1</title><link>https://grafana.com/grafana/plugins/volkovlabs-links-panel/</link><guid isPermaLink="false">1019-7261</guid><pubDate>Wed, 30 Apr 2025 12:30:20 +0000</pubDate></item><item><title>Business Links 1.4.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-links-panel/</link><guid isPermaLink="false">1019-7376</guid><pubDate>Mon, 02 Jun 2025 17:22:45 +0000</pubDate></item><item><title>Business Links 2.0.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-links-panel/</link><guid isPermaLink="false">1019-7468</guid><pubDate>Thu, 03 Jul 2025 11:10:02 +0000</pubDate></item><item><title>Business Links 2.1.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-links-panel/</link><description>&lt;h1&gt;Changelog&lt;/h1&gt;
 &lt;p&gt;All notable changes to the &lt;strong&gt;Business Links&lt;/strong&gt; panel are documented in this file. This changelog follows the &lt;a href="https://keepachangelog.com/en/1.0.0/" target="_blank"&gt;Keep a Changelog&lt;/a&gt; format and adheres to &lt;a href="https://semver.org/spec/v2.0.0.html" target="_blank"&gt;Semantic Versioning&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;[2.1.0] - 2025-07-06&lt;/h2&gt;
+&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Custom AI Assistant Name&lt;/strong&gt;: Users can now personalize the name of their AI assistant. (&lt;a href="https://github.com/VolkovLabs/business-links/issues/50" target="_blank"&gt;Issue #50&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Temperature Option for LLM Models&lt;/strong&gt;: Introduced a new setting to adjust the temperature of language models for more tailored responses. (&lt;a href="https://github.com/VolkovLabs/business-links/issues/51" target="_blank"&gt;Issue #51&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Changed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;File Upload Feature&lt;/strong&gt;: Enhanced the file upload functionality in Business AI for a smoother user experience. (&lt;a href="https://github.com/VolkovLabs/business-links/issues/51" target="_blank"&gt;Issue #51&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Error Messaging&lt;/strong&gt;: Improved error messages in Business AI to provide clearer feedback. (&lt;a href="https://github.com/VolkovLabs/business-links/issues/51" target="_blank"&gt;Issue #51&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;[2.0.0] - 2025-06-27&lt;/h2&gt;
 &lt;p&gt;We're excited to announce the release of version 2.0.0 of the Business Links plugin for Grafana. This update introduces new features, important breaking changes, and enhancements to improve your experience. Below are the details of what's new and improved.&lt;/p&gt;
 &lt;h3&gt;Breaking Changes&lt;/h3&gt;
@@ -68,4 +79,4 @@
 &lt;ul&gt;
 &lt;li&gt;Initial release of the Business Links panel, built using Volkov Labs templates for a robust and scalable foundation.&lt;/li&gt;
 &lt;/ul&gt;
-</description><guid isPermaLink="false">1019-7468</guid><pubDate>Thu, 03 Jul 2025 11:10:02 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">1019-7488</guid><pubDate>Fri, 11 Jul 2025 09:14:38 +0000</pubDate></item></channel></rss>
