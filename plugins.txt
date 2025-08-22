@@ -14,3 +14,4 @@ volkovlabs-rss-datasource
 volkovlabs-table-panel
 volkovlabs-variable-panel
 yesoreyeram-infinity-datasource
+kensobi-spc-panel
