@@ -1,14 +1,69 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SQLite</title><link>https://github.com/fr-ser/grafana-sqlite-datasource</link><description>SQLite as a (Backend) Datasource</description><category>sqlite</category><category>sql</category><category>raspberry</category><category>arm</category><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 21 Oct 2025 06:48:37 +0000</lastBuildDate><item><title>SQLite 0.1.5</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-2859</guid><pubDate>Thu, 07 Jan 2021 13:02:57 +0000</pubDate></item><item><title>SQLite 0.2.2</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-2860</guid><pubDate>Thu, 07 Jan 2021 13:03:18 +0000</pubDate></item><item><title>SQLite 0.2.7</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-2869</guid><pubDate>Mon, 11 Jan 2021 15:32:19 +0000</pubDate></item><item><title>SQLite 1.0.1</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-3013</guid><pubDate>Mon, 22 Mar 2021 14:38:07 +0000</pubDate></item><item><title>SQLite 1.0.3</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-3083</guid><pubDate>Tue, 04 May 2021 10:09:06 +0000</pubDate></item><item><title>SQLite 1.1.0</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-3084</guid><pubDate>Tue, 04 May 2021 10:09:20 +0000</pubDate></item><item><title>SQLite 1.2.0</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-3085</guid><pubDate>Tue, 04 May 2021 10:09:31 +0000</pubDate></item><item><title>SQLite 2.0.0</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-3309</guid><pubDate>Wed, 23 Jun 2021 10:13:41 +0000</pubDate></item><item><title>SQLite 2.0.2</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-3484</guid><pubDate>Thu, 07 Oct 2021 09:57:27 +0000</pubDate></item><item><title>SQLite 2.1.0</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-3485</guid><pubDate>Thu, 07 Oct 2021 09:57:37 +0000</pubDate></item><item><title>SQLite 2.1.1</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-3503</guid><pubDate>Tue, 26 Oct 2021 08:20:04 +0000</pubDate></item><item><title>SQLite 2.2.1</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-3567</guid><pubDate>Thu, 16 Dec 2021 08:29:54 +0000</pubDate></item><item><title>SQLite 3.0.0</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-3750</guid><pubDate>Wed, 09 Mar 2022 15:02:51 +0000</pubDate></item><item><title>SQLite 3.0.1</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-3767</guid><pubDate>Wed, 16 Mar 2022 15:10:26 +0000</pubDate></item><item><title>SQLite 3.1.0</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-4014</guid><pubDate>Wed, 13 Jul 2022 10:54:54 +0000</pubDate></item><item><title>SQLite 3.1.4</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-4809</guid><pubDate>Thu, 25 May 2023 09:28:15 +0000</pubDate></item><item><title>SQLite 3.3.0</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-4897</guid><pubDate>Fri, 16 Jun 2023 06:47:50 +0000</pubDate></item><item><title>SQLite 3.3.1</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-4934</guid><pubDate>Tue, 04 Jul 2023 13:58:21 +0000</pubDate></item><item><title>SQLite 3.3.2</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-4997</guid><pubDate>Thu, 20 Jul 2023 11:33:01 +0000</pubDate></item><item><title>SQLite 3.4.0</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-5486</guid><pubDate>Tue, 09 Jan 2024 11:48:30 +0000</pubDate></item><item><title>SQLite 3.5.0</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-5762</guid><pubDate>Mon, 08 Apr 2024 17:42:47 +0000</pubDate></item><item><title>SQLite 3.8.0</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-7502</guid><pubDate>Wed, 16 Jul 2025 11:40:15 +0000</pubDate></item><item><title>SQLite 3.8.2</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><description>&lt;h1&gt;Changelog&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SQLite</title><link>https://github.com/fr-ser/grafana-sqlite-datasource</link><description>SQLite as a (Backend) Datasource</description><category>sqlite</category><category>sql</category><category>raspberry</category><category>arm</category><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 13 Mar 2026 06:34:14 +0000</lastBuildDate><item><title>SQLite 0.1.5</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-2859</guid><pubDate>Thu, 07 Jan 2021 13:02:57 +0000</pubDate></item><item><title>SQLite 0.2.2</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-2860</guid><pubDate>Thu, 07 Jan 2021 13:03:18 +0000</pubDate></item><item><title>SQLite 0.2.7</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-2869</guid><pubDate>Mon, 11 Jan 2021 15:32:19 +0000</pubDate></item><item><title>SQLite 1.0.1</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-3013</guid><pubDate>Mon, 22 Mar 2021 14:38:07 +0000</pubDate></item><item><title>SQLite 1.0.3</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-3083</guid><pubDate>Tue, 04 May 2021 10:09:06 +0000</pubDate></item><item><title>SQLite 1.1.0</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-3084</guid><pubDate>Tue, 04 May 2021 10:09:20 +0000</pubDate></item><item><title>SQLite 1.2.0</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-3085</guid><pubDate>Tue, 04 May 2021 10:09:31 +0000</pubDate></item><item><title>SQLite 2.0.0</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-3309</guid><pubDate>Wed, 23 Jun 2021 10:13:41 +0000</pubDate></item><item><title>SQLite 2.0.2</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-3484</guid><pubDate>Thu, 07 Oct 2021 09:57:27 +0000</pubDate></item><item><title>SQLite 2.1.0</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-3485</guid><pubDate>Thu, 07 Oct 2021 09:57:37 +0000</pubDate></item><item><title>SQLite 2.1.1</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-3503</guid><pubDate>Tue, 26 Oct 2021 08:20:04 +0000</pubDate></item><item><title>SQLite 2.2.1</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-3567</guid><pubDate>Thu, 16 Dec 2021 08:29:54 +0000</pubDate></item><item><title>SQLite 3.0.0</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-3750</guid><pubDate>Wed, 09 Mar 2022 15:02:51 +0000</pubDate></item><item><title>SQLite 3.0.1</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-3767</guid><pubDate>Wed, 16 Mar 2022 15:10:26 +0000</pubDate></item><item><title>SQLite 3.1.0</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-4014</guid><pubDate>Wed, 13 Jul 2022 10:54:54 +0000</pubDate></item><item><title>SQLite 3.1.4</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-4809</guid><pubDate>Thu, 25 May 2023 09:28:15 +0000</pubDate></item><item><title>SQLite 3.3.0</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-4897</guid><pubDate>Fri, 16 Jun 2023 06:47:50 +0000</pubDate></item><item><title>SQLite 3.3.1</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-4934</guid><pubDate>Tue, 04 Jul 2023 13:58:21 +0000</pubDate></item><item><title>SQLite 3.3.2</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-4997</guid><pubDate>Thu, 20 Jul 2023 11:33:01 +0000</pubDate></item><item><title>SQLite 3.4.0</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-5486</guid><pubDate>Tue, 09 Jan 2024 11:48:30 +0000</pubDate></item><item><title>SQLite 3.5.0</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-5762</guid><pubDate>Mon, 08 Apr 2024 17:42:47 +0000</pubDate></item><item><title>SQLite 3.8.0</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-7502</guid><pubDate>Wed, 16 Jul 2025 11:40:15 +0000</pubDate></item><item><title>SQLite 3.8.2</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><guid isPermaLink="false">693-8100</guid><pubDate>Tue, 21 Oct 2025 06:48:34 +0000</pubDate></item><item><title>SQLite 4.0.1</title><link>https://grafana.com/grafana/plugins/frser-sqlite-datasource/</link><description>&lt;h1&gt;Changelog&lt;/h1&gt;
 &lt;p&gt;All notable changes to this project will be documented in this file.&lt;/p&gt;
 &lt;p&gt;The format is based on &lt;a href="https://keepachangelog.com" target="_blank"&gt;Keep a Changelog&lt;/a&gt; and follows semantic Versioning.&lt;/p&gt;
 &lt;p&gt;The following changes are waiting for the next major release:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;changing the default value of &amp;quot;AttachLimit&amp;quot; to 0&lt;/li&gt;
 &lt;li&gt;supporting only Grafana v10 onwards&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2&gt;[4.0.1] - 2026-02-16&lt;/h2&gt;
+&lt;h3&gt;Security&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;updating the backend (go) and frontend (npm) packages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;[4.0.0] - 2026-02-15&lt;/h2&gt;
+&lt;p&gt;This is a &amp;quot;semantic versioning&amp;quot; major release and contains breaking changes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Migration Instructions:&lt;/strong&gt; The following is the list of breaking changes and how to deal with them.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;AttachLimit&lt;/strong&gt;: The attach limit has been set to 0 by default.
+In order to set a value above 0 the &lt;code&gt;unsafe_allow_attach_limit_above_zero&lt;/code&gt; plugin configuration value has to be set.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Default Grafana Internal Blocklist&lt;/strong&gt;: The plugin blocks various grafana internal paths by default now.
+In to unblock those set &lt;code&gt;unsafe_disable_grafana_internal_blocklist&lt;/code&gt; in the plugin configuration.
+As per the release of this version the blocked path elements are the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;grafana.db&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For an up to date list please see the plugin documentation&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Default Security Path Blocklist&lt;/strong&gt;: The plugin blocks various security related paths by default now.
+In to unblock those set &lt;code&gt;unsafe_disable_security_blocklist&lt;/code&gt; in the plugin configuration.
+As per the release of this version the blocked path elements are the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;.aws&lt;/li&gt;
+&lt;li&gt;.config/gcloud&lt;/li&gt;
+&lt;li&gt;.azure&lt;/li&gt;
+&lt;li&gt;.kube/config&lt;/li&gt;
+&lt;li&gt;.docker/config&lt;/li&gt;
+&lt;li&gt;.ssh&lt;/li&gt;
+&lt;li&gt;.gnupg&lt;/li&gt;
+&lt;li&gt;.pki&lt;/li&gt;
+&lt;li&gt;/etc/shadow&lt;/li&gt;
+&lt;li&gt;/etc/passwd&lt;/li&gt;
+&lt;li&gt;/etc/gshadow&lt;/li&gt;
+&lt;li&gt;/proc/&lt;/li&gt;
+&lt;li&gt;/sys/&lt;/li&gt;
+&lt;li&gt;.env&lt;/li&gt;
+&lt;li&gt;credentials&lt;/li&gt;
+&lt;li&gt;.git/config&lt;/li&gt;
+&lt;li&gt;.netrc&lt;/li&gt;
+&lt;li&gt;.npmrc&lt;/li&gt;
+&lt;li&gt;.pypirc&lt;/li&gt;
+&lt;li&gt;id_rsa&lt;/li&gt;
+&lt;li&gt;id_dsa&lt;/li&gt;
+&lt;li&gt;id_ecdsa&lt;/li&gt;
+&lt;li&gt;id_ed25519&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For an up to date list please see the plugin documentation&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Read only connection&lt;/strong&gt;: The plugin now sets the &lt;code&gt;_pragma=query_only(1)&lt;/code&gt; path option if not specified otherwise.
+To prevent this use &lt;code&gt;unsafe_disable_query_only_path_option&lt;/code&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Security&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;the default value of &amp;quot;AttachLimit&amp;quot; is now 0 (can be adjusted)&lt;/li&gt;
+&lt;li&gt;there is a list of &amp;quot;security related&amp;quot; path prefixes, which are blocked by default (can be adjusted)&lt;/li&gt;
+&lt;li&gt;adding &lt;code&gt;_pragma=query_only(1)&lt;/code&gt; as a default path option (can be adjusted)&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;[3.8.2] - 2025-10-19&lt;/h2&gt;
-&lt;h3&gt;Changed&lt;/h3&gt;
+&lt;h3&gt;Security&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Upgraded some frontend packages due to security alerts&lt;/li&gt;
 &lt;/ul&gt;
@@ -20,7 +75,7 @@ This was already the case in v 3.5.0 and below.
 This should allow seamless usage of the plugin on Raspberry Pi Zero models.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;[3.8.0] - 2025-07-04&lt;/h2&gt;
-&lt;h3&gt;Added&lt;/h3&gt;
+&lt;h3&gt;Security&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Added the &amp;quot;block_list&amp;quot; option to allow setting a list of SQLite paths that cannot be accessed&lt;/li&gt;
 &lt;/ul&gt;
@@ -37,7 +92,7 @@ This should allow seamless usage of the plugin on Raspberry Pi Zero models.&lt;/
 &lt;h2&gt;[3.5.0] - 2024-03-08&lt;/h2&gt;
 &lt;h3&gt;Added&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Added the ability to use &amp;quot;__text&amp;quot; and &amp;quot;__value&amp;quot; columns for query variables&lt;/li&gt;
+&lt;li&gt;Added the ability to use &amp;quot;&lt;strong&gt;text&amp;quot; and &amp;quot;&lt;/strong&gt;value&amp;quot; columns for query variables&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;[3.4.0] - 2023-12-26&lt;/h2&gt;
 &lt;p&gt;Thank you to the collaborators on this release:&lt;/p&gt;
@@ -75,6 +130,9 @@ This should allow seamless usage of the plugin on Raspberry Pi Zero models.&lt;/
 &lt;h3&gt;Changed&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;updated sqlite package version to allow setting limits&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Security&lt;/h3&gt;
+&lt;ul&gt;
 &lt;li&gt;add option to set &lt;code&gt;SQLITE_LIMIT_ATTACHED&lt;/code&gt; (current default 10).
 In a future version the default will be reduced to 0.&lt;/li&gt;
 &lt;/ul&gt;
@@ -311,4 +369,4 @@ The Raspberry Pi 2 Mod. B will require a manual installation and all others will
 &lt;ul&gt;
 &lt;li&gt;Fixed: Plugin files in the zip file are now executable&lt;/li&gt;
 &lt;/ul&gt;
-</description><guid isPermaLink="false">693-8100</guid><pubDate>Tue, 21 Oct 2025 06:48:34 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">693-9338</guid><pubDate>Fri, 13 Mar 2026 06:34:13 +0000</pubDate></item></channel></rss>
