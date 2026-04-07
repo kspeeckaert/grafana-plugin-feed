@@ -1,7 +1,56 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Business Variable</title><link>https://github.com/volkovlabs/business-variable</link><description>Enhances dashboards with movable, standalone filter panels for dynamic control.</description><category>variable</category><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 31 Oct 2025 15:40:44 +0000</lastBuildDate><item><title>Business Variable 1.4.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-4954</guid><pubDate>Fri, 07 Jul 2023 13:13:19 +0000</pubDate></item><item><title>Business Variable 1.5.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-4966</guid><pubDate>Wed, 12 Jul 2023 15:08:42 +0000</pubDate></item><item><title>Business Variable 1.6.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-5011</guid><pubDate>Thu, 27 Jul 2023 10:32:21 +0000</pubDate></item><item><title>Business Variable 1.7.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-5051</guid><pubDate>Fri, 11 Aug 2023 15:57:20 +0000</pubDate></item><item><title>Business Variable 2.0.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-5248</guid><pubDate>Wed, 18 Oct 2023 13:19:24 +0000</pubDate></item><item><title>Business Variable 2.1.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-5340</guid><pubDate>Thu, 09 Nov 2023 09:24:44 +0000</pubDate></item><item><title>Business Variable 2.2.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-5372</guid><pubDate>Tue, 21 Nov 2023 14:39:07 +0000</pubDate></item><item><title>Business Variable 2.3.1</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-5457</guid><pubDate>Fri, 15 Dec 2023 12:42:38 +0000</pubDate></item><item><title>Business Variable 2.5.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-5737</guid><pubDate>Wed, 03 Apr 2024 15:20:55 +0000</pubDate></item><item><title>Business Variable 3.0.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-5853</guid><pubDate>Thu, 09 May 2024 11:52:54 +0000</pubDate></item><item><title>Business Variable 3.1.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-5941</guid><pubDate>Fri, 07 Jun 2024 14:40:13 +0000</pubDate></item><item><title>Business Variable 3.2.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-6121</guid><pubDate>Fri, 12 Jul 2024 16:45:11 +0000</pubDate></item><item><title>Business Variable 3.4.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-6281</guid><pubDate>Mon, 26 Aug 2024 13:58:48 +0000</pubDate></item><item><title>Business Variable 3.5.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-6483</guid><pubDate>Thu, 03 Oct 2024 12:45:28 +0000</pubDate></item><item><title>Business Variable 3.6.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-6601</guid><pubDate>Wed, 30 Oct 2024 10:35:21 +0000</pubDate></item><item><title>Business Variable 3.7.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-7041</guid><pubDate>Fri, 14 Feb 2025 13:58:37 +0000</pubDate></item><item><title>Business Variable 3.8.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-7188</guid><pubDate>Thu, 27 Mar 2025 11:24:38 +0000</pubDate></item><item><title>Business Variable 3.9.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-7227</guid><pubDate>Fri, 11 Apr 2025 13:24:27 +0000</pubDate></item><item><title>Business Variable 4.0.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-7378</guid><pubDate>Wed, 04 Jun 2025 21:11:30 +0000</pubDate></item><item><title>Business Variable 4.1.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-7554</guid><pubDate>Wed, 30 Jul 2025 10:56:23 +0000</pubDate></item><item><title>Business Variable 5.1.1</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><description>&lt;h1&gt;Change Log&lt;/h1&gt;
-&lt;p&gt;All notable changes to the &lt;strong&gt;Business Variable Panel&lt;/strong&gt; for Grafana are documented in this file. This panel provides advanced variable management and visualization capabilities for Grafana dashboards.&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Business Variable</title><link>https://github.com/grafana/business-variable</link><description>Enhances dashboards with movable, standalone filter panels for dynamic control.</description><category>variable</category><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 06 Apr 2026 13:45:22 +0000</lastBuildDate><item><title>Business Variable 1.4.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-4954</guid><pubDate>Fri, 07 Jul 2023 13:13:19 +0000</pubDate></item><item><title>Business Variable 1.5.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-4966</guid><pubDate>Wed, 12 Jul 2023 15:08:42 +0000</pubDate></item><item><title>Business Variable 1.6.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-5011</guid><pubDate>Thu, 27 Jul 2023 10:32:21 +0000</pubDate></item><item><title>Business Variable 1.7.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-5051</guid><pubDate>Fri, 11 Aug 2023 15:57:20 +0000</pubDate></item><item><title>Business Variable 2.0.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-5248</guid><pubDate>Wed, 18 Oct 2023 13:19:24 +0000</pubDate></item><item><title>Business Variable 2.1.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-5340</guid><pubDate>Thu, 09 Nov 2023 09:24:44 +0000</pubDate></item><item><title>Business Variable 2.2.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-5372</guid><pubDate>Tue, 21 Nov 2023 14:39:07 +0000</pubDate></item><item><title>Business Variable 2.3.1</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-5457</guid><pubDate>Fri, 15 Dec 2023 12:42:38 +0000</pubDate></item><item><title>Business Variable 2.5.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-5737</guid><pubDate>Wed, 03 Apr 2024 15:20:55 +0000</pubDate></item><item><title>Business Variable 3.0.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-5853</guid><pubDate>Thu, 09 May 2024 11:52:54 +0000</pubDate></item><item><title>Business Variable 3.1.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-5941</guid><pubDate>Fri, 07 Jun 2024 14:40:13 +0000</pubDate></item><item><title>Business Variable 3.2.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-6121</guid><pubDate>Fri, 12 Jul 2024 16:45:11 +0000</pubDate></item><item><title>Business Variable 3.4.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-6281</guid><pubDate>Mon, 26 Aug 2024 13:58:48 +0000</pubDate></item><item><title>Business Variable 3.5.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-6483</guid><pubDate>Thu, 03 Oct 2024 12:45:28 +0000</pubDate></item><item><title>Business Variable 3.6.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-6601</guid><pubDate>Wed, 30 Oct 2024 10:35:21 +0000</pubDate></item><item><title>Business Variable 3.7.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-7041</guid><pubDate>Fri, 14 Feb 2025 13:58:37 +0000</pubDate></item><item><title>Business Variable 3.8.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-7188</guid><pubDate>Thu, 27 Mar 2025 11:24:38 +0000</pubDate></item><item><title>Business Variable 3.9.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-7227</guid><pubDate>Fri, 11 Apr 2025 13:24:27 +0000</pubDate></item><item><title>Business Variable 4.0.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-7378</guid><pubDate>Wed, 04 Jun 2025 21:11:30 +0000</pubDate></item><item><title>Business Variable 4.1.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-7554</guid><pubDate>Wed, 30 Jul 2025 10:56:23 +0000</pubDate></item><item><title>Business Variable 5.1.1</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><guid isPermaLink="false">902-8242</guid><pubDate>Fri, 31 Oct 2025 15:40:43 +0000</pubDate></item><item><title>Business Variable 5.1.2</title><link>https://grafana.com/grafana/plugins/volkovlabs-variable-panel/</link><description>&lt;h1&gt;Change Log&lt;/h1&gt;
+&lt;p&gt;All notable changes to the &lt;strong&gt;Business Variable Panel&lt;/strong&gt; for Grafana
+are documented in this file. This panel provides advanced variable
+management and visualization capabilities for Grafana dashboards.&lt;/p&gt;
 &lt;p&gt;The format is based on &lt;a href="https://keepachangelog.com/en/1.0.0/" target="_blank"&gt;Keep a Changelog&lt;/a&gt;, and this project adheres to &lt;a href="https://semver.org/spec/v2.0.0.html" target="_blank"&gt;Semantic Versioning&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;[Unreleased]&lt;/h2&gt;
+&lt;h3&gt;Changed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Upgraded Node to v24 and migrated to latest
+&lt;code&gt;@grafana/create-plugin&lt;/code&gt; scaffolding.&lt;/li&gt;
+&lt;li&gt;Updated all package dependencies via &lt;code&gt;npm update&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Bumped &lt;code&gt;@emotion/css&lt;/code&gt; to 11.13.5 and
+&lt;code&gt;@tanstack/react-virtual&lt;/code&gt; to 3.13.23.&lt;/li&gt;
+&lt;li&gt;Replaced deprecated &lt;code&gt;react-beautiful-dnd&lt;/code&gt; with
+&lt;code&gt;@hello-pangea/dnd&lt;/code&gt; (drop-in fork).&lt;/li&gt;
+&lt;li&gt;Updated Playwright Docker image to v1.59.1 to match
+&lt;code&gt;@playwright/test&lt;/code&gt; package version.&lt;/li&gt;
+&lt;li&gt;Renamed &lt;code&gt;timescale/&lt;/code&gt; directory to &lt;code&gt;timescale-setup/&lt;/code&gt;;
+switched Dockerfile from &lt;code&gt;yarn&lt;/code&gt; to &lt;code&gt;npm&lt;/code&gt; and bumped
+&lt;code&gt;docker-compose-wait&lt;/code&gt; from 2.9.0 to 2.12.1.&lt;/li&gt;
+&lt;li&gt;Simplified docker-compose: removed legacy &lt;code&gt;grafana-dev&lt;/code&gt;,
+&lt;code&gt;grafana-main&lt;/code&gt;, and &lt;code&gt;grafana-dep&lt;/code&gt; services; consolidated
+profiles to &lt;code&gt;dev&lt;/code&gt; and &lt;code&gt;playwright&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Simplified npm scripts: removed &lt;code&gt;start:dep&lt;/code&gt;/&lt;code&gt;start:main&lt;/code&gt;,
+updated &lt;code&gt;test:e2e:docker&lt;/code&gt; to use &lt;code&gt;playwright&lt;/code&gt; profile,
+added &lt;code&gt;--coverage&lt;/code&gt; to &lt;code&gt;test:ci&lt;/code&gt;, and added &lt;code&gt;--volumes&lt;/code&gt;
+to &lt;code&gt;stop&lt;/code&gt; for clean database restarts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed all React Compiler lint errors (refs during render,
+setState in effects, useMemo dependency mismatches).&lt;/li&gt;
+&lt;li&gt;Suppressed &lt;code&gt;react-hooks/incompatible-library&lt;/code&gt; warning
+for TanStack Table's &lt;code&gt;useReactTable()&lt;/code&gt; call.&lt;/li&gt;
+&lt;li&gt;Fixed SQL injection pattern in timescale server by using
+parameterized queries.&lt;/li&gt;
+&lt;li&gt;Added healthcheck to Grafana service in docker-compose to
+prevent Playwright ECONNREFUSED errors in CI.&lt;/li&gt;
+&lt;li&gt;Fixed brittle sticky header height E2E assertion to use a
+regex range instead of exact pixel value.&lt;/li&gt;
+&lt;li&gt;Fixed unawaited Playwright actions in E2E test helpers
+causing React 19 race conditions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added &lt;code&gt;AGENTS.md&lt;/code&gt; with build/lint/test commands, coding
+conventions, and branching policy for AI coding agents.&lt;/li&gt;
+&lt;li&gt;Added &lt;code&gt;cspell.config.json&lt;/code&gt; for spell checking.&lt;/li&gt;
+&lt;li&gt;Added &lt;code&gt;.markdownlint.yaml&lt;/code&gt; with 120 char line length.&lt;/li&gt;
+&lt;li&gt;Added CI workflows for Jest coverage report and PR file
+changes summary.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;[5.1.0] - 2025-10-29&lt;/h2&gt;
 &lt;h3&gt;Project Updates&lt;/h3&gt;
 &lt;ul&gt;
@@ -30,17 +79,26 @@
 &lt;/ul&gt;
 &lt;h2&gt;[4.1.0] - 2025-07-29&lt;/h2&gt;
 &lt;h3&gt;Overview&lt;/h3&gt;
-&lt;p&gt;This release introduces new features and enhancements to improve user experience and functionality in the Business Variable plugin. Key additions include pinning group filters, custom icons for minimized panels, and new options for latency requests and tree view. Alongside these, we've made important updates to dependencies and configurations.&lt;/p&gt;
+&lt;p&gt;This release introduces new features and enhancements to improve user
+experience and functionality in the Business Variable plugin. Key
+additions include pinning group filters, custom icons for minimized
+panels, and new options for latency requests and tree view. Alongside
+these, we've made important updates to dependencies and configurations.&lt;/p&gt;
 &lt;h3&gt;Added&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Pin/Unpin Group Filters&lt;/strong&gt;: Added the ability to pin or unpin group filters for better customization and usability (&lt;a href="https://github.com/volkovlabs/business-variable/issues/274" target="_blank"&gt;#274&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Custom Icons for Minimized Panels&lt;/strong&gt;: Introduced the option to select native or custom icons for minimized variable panels (&lt;a href="https://github.com/volkovlabs/business-variable/issues/281" target="_blank"&gt;#281&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Custom Icons for Minimized Panels&lt;/strong&gt;: Introduced the option to select
+native or custom icons for minimized variable panels
+(&lt;a href="https://github.com/volkovlabs/business-variable/issues/281" target="_blank"&gt;#281&lt;/a&gt;).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Latency Request Option&lt;/strong&gt;: Added a new option to configure latency requests for improved performance tuning (&lt;a href="https://github.com/volkovlabs/business-variable/issues/283" target="_blank"&gt;#283&lt;/a&gt;).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Tree View Values Wrap&lt;/strong&gt;: Implemented wrapping options for values in Tree View to enhance readability (&lt;a href="https://github.com/volkovlabs/business-variable/issues/285" target="_blank"&gt;#285&lt;/a&gt;).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Changed&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Updated &lt;code&gt;useDatasourceRequest&lt;/code&gt; Hook&lt;/strong&gt;: Improved the &lt;code&gt;useDatasourceRequest&lt;/code&gt; hook by integrating updates from related packages (&lt;a href="https://github.com/volkovlabs/business-variable/issues/282" target="_blank"&gt;#282&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Updated &lt;code&gt;useDatasourceRequest&lt;/code&gt; Hook&lt;/strong&gt;: Improved the
+&lt;code&gt;useDatasourceRequest&lt;/code&gt; hook by integrating updates from related
+packages
+(&lt;a href="https://github.com/volkovlabs/business-variable/issues/282" target="_blank"&gt;#282&lt;/a&gt;).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Updated ESLint Configuration&lt;/strong&gt;: Revised ESLint settings to ensure better code quality and consistency (&lt;a href="https://github.com/volkovlabs/business-variable/issues/286" target="_blank"&gt;#286&lt;/a&gt;).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;[4.0.0] - 2025-06-03&lt;/h2&gt;
@@ -372,4 +430,4 @@
 &lt;li&gt;Upgraded to Grafana 10.0.0 (&lt;a href="https://github.com/volkovlabs/business-variable/issues/3" target="_blank"&gt;#3&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Updated provisioning and README (&lt;a href="https://github.com/volkovlabs/business-variable/issues/5" target="_blank"&gt;#5&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-</description><guid isPermaLink="false">902-8242</guid><pubDate>Fri, 31 Oct 2025 15:40:43 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">902-9511</guid><pubDate>Mon, 06 Apr 2026 13:45:19 +0000</pubDate></item></channel></rss>
