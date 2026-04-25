@@ -1,6 +1,94 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Business Table</title><link>https://github.com/volkovlabs/business-table</link><description>Simplifies data presentation with intuitive table layouts</description><category>table</category><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 08 Nov 2025 22:36:01 +0000</lastBuildDate><item><title>Business Table 1.2.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-6384</guid><pubDate>Fri, 13 Sep 2024 09:36:57 +0000</pubDate></item><item><title>Business Table 1.3.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-6418</guid><pubDate>Mon, 23 Sep 2024 11:43:03 +0000</pubDate></item><item><title>Business Table 1.5.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-6522</guid><pubDate>Wed, 09 Oct 2024 10:22:56 +0000</pubDate></item><item><title>Business Table 1.6.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-6610</guid><pubDate>Fri, 01 Nov 2024 13:42:31 +0000</pubDate></item><item><title>Business Table 1.8.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-6691</guid><pubDate>Mon, 25 Nov 2024 09:59:29 +0000</pubDate></item><item><title>Business Table 1.9.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-6723</guid><pubDate>Tue, 03 Dec 2024 11:04:21 +0000</pubDate></item><item><title>Business Table 2.0.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-6858</guid><pubDate>Thu, 09 Jan 2025 10:12:43 +0000</pubDate></item><item><title>Business Table 2.2.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-7020</guid><pubDate>Tue, 11 Feb 2025 13:01:54 +0000</pubDate></item><item><title>Business Table 2.3.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-7098</guid><pubDate>Fri, 28 Feb 2025 09:30:31 +0000</pubDate></item><item><title>Business Table 2.4.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-7130</guid><pubDate>Mon, 10 Mar 2025 18:39:00 +0000</pubDate></item><item><title>Business Table 2.5.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-7200</guid><pubDate>Wed, 02 Apr 2025 11:07:17 +0000</pubDate></item><item><title>Business Table 2.6.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-7255</guid><pubDate>Thu, 24 Apr 2025 13:13:34 +0000</pubDate></item><item><title>Business Table 2.7.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-7443</guid><pubDate>Thu, 26 Jun 2025 08:18:45 +0000</pubDate></item><item><title>Business Table 3.0.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-7467</guid><pubDate>Thu, 03 Jul 2025 09:27:27 +0000</pubDate></item><item><title>Business Table 3.1.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-7497</guid><pubDate>Tue, 15 Jul 2025 13:57:44 +0000</pubDate></item><item><title>Business Table 3.3.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-7652</guid><pubDate>Tue, 19 Aug 2025 13:15:28 +0000</pubDate></item><item><title>Business Table 3.4.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-7721</guid><pubDate>Fri, 29 Aug 2025 14:31:28 +0000</pubDate></item><item><title>Business Table 3.6.1</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><description>&lt;h1&gt;Changelog&lt;/h1&gt;
-&lt;p&gt;All notable changes to the &lt;strong&gt;Business Table Panel&lt;/strong&gt; plugin for Grafana are documented in this file. The format is based on &lt;a href="https://keepachangelog.com/en/1.0.0/" target="_blank"&gt;Keep a Changelog&lt;/a&gt;, and this project adheres to &lt;a href="https://semver.org/spec/v2.0.0.html" target="_blank"&gt;Semantic Versioning&lt;/a&gt;.&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Business Table</title><link>https://github.com/grafana/business-table</link><description>Simplifies data presentation with intuitive table layouts</description><category>table</category><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 24 Apr 2026 18:38:03 +0000</lastBuildDate><item><title>Business Table 1.2.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-6384</guid><pubDate>Fri, 13 Sep 2024 09:36:57 +0000</pubDate></item><item><title>Business Table 1.3.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-6418</guid><pubDate>Mon, 23 Sep 2024 11:43:03 +0000</pubDate></item><item><title>Business Table 1.5.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-6522</guid><pubDate>Wed, 09 Oct 2024 10:22:56 +0000</pubDate></item><item><title>Business Table 1.6.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-6610</guid><pubDate>Fri, 01 Nov 2024 13:42:31 +0000</pubDate></item><item><title>Business Table 1.8.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-6691</guid><pubDate>Mon, 25 Nov 2024 09:59:29 +0000</pubDate></item><item><title>Business Table 1.9.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-6723</guid><pubDate>Tue, 03 Dec 2024 11:04:21 +0000</pubDate></item><item><title>Business Table 2.0.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-6858</guid><pubDate>Thu, 09 Jan 2025 10:12:43 +0000</pubDate></item><item><title>Business Table 2.2.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-7020</guid><pubDate>Tue, 11 Feb 2025 13:01:54 +0000</pubDate></item><item><title>Business Table 2.3.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-7098</guid><pubDate>Fri, 28 Feb 2025 09:30:31 +0000</pubDate></item><item><title>Business Table 2.4.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-7130</guid><pubDate>Mon, 10 Mar 2025 18:39:00 +0000</pubDate></item><item><title>Business Table 2.5.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-7200</guid><pubDate>Wed, 02 Apr 2025 11:07:17 +0000</pubDate></item><item><title>Business Table 2.6.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-7255</guid><pubDate>Thu, 24 Apr 2025 13:13:34 +0000</pubDate></item><item><title>Business Table 2.7.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-7443</guid><pubDate>Thu, 26 Jun 2025 08:18:45 +0000</pubDate></item><item><title>Business Table 3.0.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-7467</guid><pubDate>Thu, 03 Jul 2025 09:27:27 +0000</pubDate></item><item><title>Business Table 3.1.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-7497</guid><pubDate>Tue, 15 Jul 2025 13:57:44 +0000</pubDate></item><item><title>Business Table 3.3.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-7652</guid><pubDate>Tue, 19 Aug 2025 13:15:28 +0000</pubDate></item><item><title>Business Table 3.4.0</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-7721</guid><pubDate>Fri, 29 Aug 2025 14:31:28 +0000</pubDate></item><item><title>Business Table 3.6.1</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><guid isPermaLink="false">985-8327</guid><pubDate>Sat, 08 Nov 2025 22:36:00 +0000</pubDate></item><item><title>Business Table 3.6.3</title><link>https://grafana.com/grafana/plugins/volkovlabs-table-panel/</link><description>&lt;h1&gt;Changelog&lt;/h1&gt;
+&lt;p&gt;All notable changes to the &lt;strong&gt;Business Table Panel&lt;/strong&gt; plugin for Grafana are documented in this file.
+The format is based on &lt;a href="https://keepachangelog.com/en/1.0.0/" target="_blank"&gt;Keep a Changelog&lt;/a&gt;, and this project
+adheres to &lt;a href="https://semver.org/spec/v2.0.0.html" target="_blank"&gt;Semantic Versioning&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;[Unreleased]&lt;/h2&gt;
+&lt;h3&gt;Fixed&lt;/h3&gt;
+&lt;h4&gt;Panel editing&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Number input fields no longer lose in-progress typing when the
+panel editor re-renders, and step values snap to the nearest
+increment instead of rounding up.&lt;/li&gt;
+&lt;li&gt;Code editor fields in panel options render more efficiently and
+use stable Monaco types from &lt;code&gt;@grafana/ui&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Data &amp;amp; variables&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Data source queries surface a clear error when a dashboard
+variable resolves to invalid JSON instead of throwing an
+unhandled exception.&lt;/li&gt;
+&lt;li&gt;Dashboard variables work reliably inside scene contexts; fixed
+hook-ordering and timer cleanup issues that could cause stale
+or missing variable values.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Table behavior&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Column filters no longer trigger redundant re-renders when
+sort/filter state changes.&lt;/li&gt;
+&lt;li&gt;Filter test passes on Grafana 13 (workaround for an upstream
+header cell overlap).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Content&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Removed &lt;code&gt;volkovlabs.io&lt;/code&gt; URLs from provisioning dashboards.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Changed&lt;/h3&gt;
+&lt;h4&gt;Dependencies&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Replaced all &lt;code&gt;@volkovlabs/*&lt;/code&gt; packages with local implementations:
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;@volkovlabs/components&lt;/code&gt; → inlined &lt;code&gt;useDatasourceRequest&lt;/code&gt;,
+&lt;code&gt;useDashboardVariables&lt;/code&gt;, &lt;code&gt;NumberInput&lt;/code&gt;, and &lt;code&gt;AutosizeCodeEditor&lt;/code&gt;.
+Bundle size reduced from 2.05 MiB to 1.04 MiB.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;@volkovlabs/jest-selectors&lt;/code&gt; → inlined as
+&lt;code&gt;src/utils/test-selectors.ts&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;@volkovlabs/eslint-config&lt;/code&gt; → replaced with direct
+&lt;code&gt;@grafana/eslint-config&lt;/code&gt; and a simplified &lt;code&gt;eslint.config.mjs&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Bumped &lt;code&gt;@grafana/scenes&lt;/code&gt; to v7.4.2 (React 19 compatibility).&lt;/li&gt;
+&lt;li&gt;Bumped &lt;code&gt;uuid&lt;/code&gt; to v14 (includes security fix for &lt;code&gt;v3&lt;/code&gt;/&lt;code&gt;v5&lt;/code&gt;/&lt;code&gt;v6&lt;/code&gt;;
+this plugin only uses &lt;code&gt;v4&lt;/code&gt;).&lt;/li&gt;
+&lt;li&gt;Bumped &lt;code&gt;@typescript-eslint/eslint-plugin&lt;/code&gt; to 8.59.0 and
+&lt;code&gt;markdownlint-cli2&lt;/code&gt; to 0.22.1.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Build &amp;amp; lint&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;eslint.config.mjs&lt;/code&gt;: restored React Compiler rule overrides —
+opt-in rules disabled, real-bug rules set to &lt;code&gt;warn&lt;/code&gt; to surface
+debt without blocking CI.&lt;/li&gt;
+&lt;li&gt;Removed test-only &lt;code&gt;test-selectors&lt;/code&gt; re-export from &lt;code&gt;src/utils&lt;/code&gt;
+barrel.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;CI &amp;amp; tooling&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated CI/CD workflows to &lt;code&gt;plugin-ci-workflows&lt;/code&gt; v7.3.1 and
+bumped &lt;code&gt;actions/github-script&lt;/code&gt; to v9.0.0.&lt;/li&gt;
+&lt;li&gt;Updated Playwright Docker image to v1.59.1-noble.&lt;/li&gt;
+&lt;li&gt;CI now runs Playwright against Grafana &lt;code&gt;&amp;gt;=12.3&lt;/code&gt;, including the
+dev and React 19 preview images.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Internal&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed Jest coverage under glob v13 via a &lt;code&gt;test-exclude&lt;/code&gt; override.&lt;/li&gt;
+&lt;li&gt;Coverage workflow falls back to a PR-only report when the base
+branch run fails.&lt;/li&gt;
+&lt;li&gt;Resolved E2E &lt;code&gt;@/&lt;/code&gt; path alias resolution in the test Dockerfile.&lt;/li&gt;
+&lt;li&gt;Resolved React Compiler lint errors across the codebase.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Project Updates&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Added &lt;code&gt;AGENTS.md&lt;/code&gt; with coding agent guidance, CI/CD, PR summary, lint
+rules, and &lt;code&gt;@volkovlabs/*&lt;/code&gt; package prohibition.&lt;/li&gt;
+&lt;li&gt;Added CI/CD coverage report and PR file changes workflows.&lt;/li&gt;
+&lt;li&gt;Optimized Dockerfiles: removed redundant playwright install in test
+Dockerfile; use &lt;code&gt;node:24-slim&lt;/code&gt; and pin &lt;code&gt;pg@8&lt;/code&gt; in timescale. Added
+&lt;code&gt;src/&lt;/code&gt; and &lt;code&gt;tsconfig.json&lt;/code&gt; to test Dockerfile for E2E helper imports.&lt;/li&gt;
+&lt;li&gt;Prepared the E2E Dockerfile for BuildKit caching (&lt;code&gt;--mount=type=cache&lt;/code&gt;
+for npm, &lt;code&gt;--prefer-offline&lt;/code&gt;). The cross-run speedup itself requires
+the reusable CI workflow to initialize buildx with the GHA cache
+backend; that is being tracked upstream.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;[3.6.0] - 2025-10-28&lt;/h2&gt;
 &lt;h3&gt;Project Updates&lt;/h3&gt;
 &lt;ul&gt;
@@ -15,11 +103,15 @@
 &lt;h2&gt;[3.4.0] - 2025-08-28&lt;/h2&gt;
 &lt;h3&gt;✨ Added&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Handlebars Support&lt;/strong&gt;: Introduced Handlebars templating for exporting nested objects, enhancing data rendering capabilities. (&lt;a href="https://github.com/VolkovLabs/business-table/pull/382" target="_blank"&gt;#382&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Handlebars Support&lt;/strong&gt;: Introduced Handlebars templating for exporting nested objects,
+enhancing data rendering capabilities.
+(&lt;a href="https://github.com/VolkovLabs/business-table/pull/382" target="_blank"&gt;#382&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;🔄 Changed&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Grafana 12.1 Compatibility&lt;/strong&gt;: Updated the plugin to fully support Grafana 12.1 with modernized dependencies for better performance and compatibility. (&lt;a href="https://github.com/VolkovLabs/business-table/pull/384" target="_blank"&gt;#384&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Grafana 12.1 Compatibility&lt;/strong&gt;: Updated the plugin to fully support Grafana 12.1 with
+modernized dependencies for better performance and compatibility.
+(&lt;a href="https://github.com/VolkovLabs/business-table/pull/384" target="_blank"&gt;#384&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;[3.3.0] - 2025-08-18&lt;/h2&gt;
 &lt;h3&gt;✨ Added&lt;/h3&gt;
@@ -28,34 +120,55 @@
 &lt;li&gt;Added an option to switch Manager UI between table in group and columns. (&lt;a href="https://github.com/VolkovLabs/business-table/pull/379" target="_blank"&gt;#379&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;[3.2.0] - 2025-08-07&lt;/h2&gt;
-&lt;p&gt;We're excited to announce the release of version 3.2.0 of the Business Table plugin. This update introduces new features to enhance user experience and functionality, along with important fixes and improvements to existing features.&lt;/p&gt;
+&lt;p&gt;We're excited to announce the release of version 3.2.0 of the Business Table plugin. This
+update introduces new features to enhance user experience and functionality, along with
+important fixes and improvements to existing features.&lt;/p&gt;
 &lt;h3&gt;✨ Added&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Row Highlight on Hover&lt;/strong&gt;: Added an option to highlight table rows when hovering over them for improved visibility. (&lt;a href="https://github.com/VolkovLabs/business-table/pull/365" target="_blank"&gt;#365&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integer Boolean Cell Type&lt;/strong&gt;: Introduced support for integer-based Boolean cell values (0-1) to accommodate diverse data formats. (&lt;a href="https://github.com/VolkovLabs/business-table/pull/366" target="_blank"&gt;#366&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Nested Objects in Export&lt;/strong&gt;: Enhanced table export functionality to include nested objects for more comprehensive data handling. (&lt;a href="https://github.com/VolkovLabs/business-table/pull/374" target="_blank"&gt;#374&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Row Highlight on Hover&lt;/strong&gt;: Added an option to highlight table rows when hovering over them
+for improved visibility.
+(&lt;a href="https://github.com/VolkovLabs/business-table/pull/365" target="_blank"&gt;#365&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integer Boolean Cell Type&lt;/strong&gt;: Introduced support for integer-based Boolean cell values (0-1)
+to accommodate diverse data formats.
+(&lt;a href="https://github.com/VolkovLabs/business-table/pull/366" target="_blank"&gt;#366&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nested Objects in Export&lt;/strong&gt;: Enhanced table export functionality to include nested objects
+for more comprehensive data handling.
+(&lt;a href="https://github.com/VolkovLabs/business-table/pull/374" target="_blank"&gt;#374&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;🔄 Changed&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Pinned Header Background&lt;/strong&gt;: Corrected the background color issue for pinned headers to ensure consistent styling. (&lt;a href="https://github.com/VolkovLabs/business-table/pull/363" target="_blank"&gt;#363&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;ESLint Configuration&lt;/strong&gt;: Updated ESLint settings to align with the latest coding standards and improve code quality. (&lt;a href="https://github.com/VolkovLabs/business-table/pull/367" target="_blank"&gt;#367&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Filter and Sorting Icons&lt;/strong&gt;: Combined Filter and Sorting icons into a unified display when the Manager is active for a cleaner UI. (&lt;a href="https://github.com/VolkovLabs/business-table/pull/375" target="_blank"&gt;#375&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pinned Header Background&lt;/strong&gt;: Corrected the background color issue for pinned headers to
+ensure consistent styling.
+(&lt;a href="https://github.com/VolkovLabs/business-table/pull/363" target="_blank"&gt;#363&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ESLint Configuration&lt;/strong&gt;: Updated ESLint settings to align with the latest coding standards
+and improve code quality.
+(&lt;a href="https://github.com/VolkovLabs/business-table/pull/367" target="_blank"&gt;#367&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Filter and Sorting Icons&lt;/strong&gt;: Combined Filter and Sorting icons into a unified display when
+the Manager is active for a cleaner UI.
+(&lt;a href="https://github.com/VolkovLabs/business-table/pull/375" target="_blank"&gt;#375&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;[3.1.0] - 2025-07-11&lt;/h2&gt;
 &lt;h3&gt;✨ Added&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Filter Mode Options Description&lt;/strong&gt;: Introduced detailed descriptions for filter mode options to help users better understand and utilize filtering capabilities. (&lt;a href="https://github.com/VolkovLabs/business-table/pull/353" target="_blank"&gt;#353&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Custom Icon Selection for Column Manager&lt;/strong&gt;: Added the ability to choose between native and custom icons in the column manager, providing greater flexibility in table customization. (&lt;a href="https://github.com/VolkovLabs/business-table/pull/360" target="_blank"&gt;#360&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Filter Mode Options Description&lt;/strong&gt;: Introduced detailed descriptions for filter mode options
+to help users better understand and utilize filtering capabilities.
+(&lt;a href="https://github.com/VolkovLabs/business-table/pull/353" target="_blank"&gt;#353&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Custom Icon Selection for Column Manager&lt;/strong&gt;: Added the ability to choose between native and
+custom icons in the column manager, providing greater flexibility in table customization.
+(&lt;a href="https://github.com/VolkovLabs/business-table/pull/360" target="_blank"&gt;#360&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;🔄 Changed&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Enhanced Export Functionality&lt;/strong&gt;: Updated the export feature to streamline the process, making it more intuitive and user-friendly for exporting table data. (&lt;a href="https://github.com/VolkovLabs/business-table/pull/358" target="_blank"&gt;#358&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enhanced Export Functionality&lt;/strong&gt;: Updated the export feature to streamline the process,
+making it more intuitive and user-friendly for exporting table data.
+(&lt;a href="https://github.com/VolkovLabs/business-table/pull/358" target="_blank"&gt;#358&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;[3.0.0] - 2025-06-30&lt;/h2&gt;
 &lt;p&gt;This release introduces new features, important compatibility updates, and several enhancements to improve your experience.&lt;/p&gt;
 &lt;h3&gt;⚠️ Breaking Changes&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Grafana Compatibility&lt;/strong&gt;: This version requires Grafana 11 or Grafana 12. Please ensure your Grafana instance is updated to a compatible version before upgrading.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Grafana Compatibility&lt;/strong&gt;: This version requires Grafana 11 or Grafana 12. Please ensure
+your Grafana instance is updated to a compatible version before upgrading.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;✨ Added&lt;/h3&gt;
 &lt;ul&gt;
@@ -65,9 +178,15 @@
 &lt;/ul&gt;
 &lt;h3&gt;🔄 Changed&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Grafana 12.0 Support&lt;/strong&gt;: Upgraded the plugin to support Grafana 12.0 with updated dependencies for improved performance and compatibility. (&lt;a href="https://github.com/VolkovLabs/business-table/pull/344" target="_blank"&gt;#344&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Live Filter Fix&lt;/strong&gt;: Resolved an issue with the cleanup action in the 'live' filter for smoother filtering operations. (&lt;a href="https://github.com/VolkovLabs/business-table/pull/346" target="_blank"&gt;#346&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;User Preferences Update&lt;/strong&gt;: Updated the &lt;code&gt;userPreferences&lt;/code&gt; key to include Panel and Dashboard IDs for more precise user settings management. (&lt;a href="https://github.com/VolkovLabs/business-table/pull/351" target="_blank"&gt;#351&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Grafana 12.0 Support&lt;/strong&gt;: Upgraded the plugin to support Grafana 12.0 with updated
+dependencies for improved performance and compatibility.
+(&lt;a href="https://github.com/VolkovLabs/business-table/pull/344" target="_blank"&gt;#344&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Live Filter Fix&lt;/strong&gt;: Resolved an issue with the cleanup action in the 'live' filter for
+smoother filtering operations.
+(&lt;a href="https://github.com/VolkovLabs/business-table/pull/346" target="_blank"&gt;#346&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;User Preferences Update&lt;/strong&gt;: Updated the &lt;code&gt;userPreferences&lt;/code&gt; key to include Panel and Dashboard
+IDs for more precise user settings management.
+(&lt;a href="https://github.com/VolkovLabs/business-table/pull/351" target="_blank"&gt;#351&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;[2.7.0] - 2025-06-24&lt;/h2&gt;
 &lt;h3&gt;Added&lt;/h3&gt;
@@ -79,7 +198,9 @@
 &lt;h3&gt;Changed&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Testing Dependencies&lt;/strong&gt;: Updated dependencies for end-to-end (E2E) testing to ensure reliability. (&lt;a href="https://github.com/VolkovLabs/business-table/pull/308" target="_blank"&gt;#308&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Sorting Behavior&lt;/strong&gt;: Enhanced sorting functionality in the UI manager and table header cells for a smoother experience. (&lt;a href="https://github.com/VolkovLabs/business-table/pull/314" target="_blank"&gt;#314&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sorting Behavior&lt;/strong&gt;: Enhanced sorting functionality in the UI manager and table header cells
+for a smoother experience.
+(&lt;a href="https://github.com/VolkovLabs/business-table/pull/314" target="_blank"&gt;#314&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;User Preferences&lt;/strong&gt;: Allowed saving of user preferences without requiring the UI manager. (&lt;a href="https://github.com/VolkovLabs/business-table/pull/340" target="_blank"&gt;#340&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Background Row Fix&lt;/strong&gt;: Applied a fix to improve rendering of background rows. (&lt;a href="https://github.com/VolkovLabs/business-table/pull/343" target="_blank"&gt;#343&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
@@ -209,7 +330,9 @@
 &lt;h2&gt;[1.6.0] - 2024-10-29&lt;/h2&gt;
 &lt;h3&gt;Added&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Variable replacement in file names (&lt;a href="https://github.com/VolkovLabs/business-table/issues/131" target="_blank"&gt;#131&lt;/a&gt;) and column headers (&lt;a href="https://github.com/VolkovLabs/business-table/issues/134" target="_blank"&gt;#134&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Variable replacement in file names
+(&lt;a href="https://github.com/VolkovLabs/business-table/issues/131" target="_blank"&gt;#131&lt;/a&gt;) and column headers
+(&lt;a href="https://github.com/VolkovLabs/business-table/issues/134" target="_blank"&gt;#134&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Textarea column editor type for multi-line input (&lt;a href="https://github.com/VolkovLabs/business-table/issues/133" target="_blank"&gt;#133&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Colored text and background for aggregated rows (&lt;a href="https://github.com/VolkovLabs/business-table/issues/136" target="_blank"&gt;#136&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Column header customization for personalized views (&lt;a href="https://github.com/VolkovLabs/business-table/issues/141" target="_blank"&gt;#141&lt;/a&gt;)&lt;/li&gt;
@@ -262,7 +385,9 @@
 &lt;/ul&gt;
 &lt;h3&gt;Added&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Permission-based data editing for secure access control (&lt;a href="https://github.com/VolkovLabs/business-table/issues/40" target="_blank"&gt;#40&lt;/a&gt;, &lt;a href="https://github.com/VolkovLabs/business-table/issues/76" target="_blank"&gt;#76&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Permission-based data editing for secure access control
+(&lt;a href="https://github.com/VolkovLabs/business-table/issues/40" target="_blank"&gt;#40&lt;/a&gt;,
+&lt;a href="https://github.com/VolkovLabs/business-table/issues/76" target="_blank"&gt;#76&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Query-based edit permissions for granular control (&lt;a href="https://github.com/VolkovLabs/business-table/issues/47" target="_blank"&gt;#47&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Client-side and query-based pagination for flexible data handling (&lt;a href="https://github.com/VolkovLabs/business-table/issues/50" target="_blank"&gt;#50&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Column pinning for improved data visibility (&lt;a href="https://github.com/VolkovLabs/business-table/issues/53" target="_blank"&gt;#53&lt;/a&gt;, &lt;a href="https://github.com/VolkovLabs/business-table/issues/65" target="_blank"&gt;#65&lt;/a&gt;)&lt;/li&gt;
@@ -311,4 +436,4 @@
 &lt;li&gt;Basic column editor for data customization (&lt;a href="https://github.com/VolkovLabs/business-table/issues/1" target="_blank"&gt;#1&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Groups and tabs functionality for organized data display (&lt;a href="https://github.com/VolkovLabs/business-table/issues/17" target="_blank"&gt;#17&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-</description><guid isPermaLink="false">985-8327</guid><pubDate>Sat, 08 Nov 2025 22:36:00 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">985-9743</guid><pubDate>Fri, 24 Apr 2026 18:38:00 +0000</pubDate></item></channel></rss>
