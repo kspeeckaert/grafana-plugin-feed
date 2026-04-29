@@ -1,5 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SPC Chart</title><link>https://github.com/KensoBI/spc-chart</link><description>Create common SPC charts like Xbar-R, XbarS, and XmR charts.</description><category>panel</category><category>spc</category><category>chart</category><category>kensobi</category><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 02 Feb 2026 15:56:40 +0000</lastBuildDate><item><title>SPC Chart 1.0.1</title><link>https://grafana.com/grafana/plugins/kensobi-spc-panel/</link><guid isPermaLink="false">934-5482</guid><pubDate>Mon, 08 Jan 2024 16:37:51 +0000</pubDate></item><item><title>SPC Chart 1.0.2</title><link>https://grafana.com/grafana/plugins/kensobi-spc-panel/</link><guid isPermaLink="false">934-5622</guid><pubDate>Tue, 27 Feb 2024 10:14:53 +0000</pubDate></item><item><title>SPC Chart 1.0.3</title><link>https://grafana.com/grafana/plugins/kensobi-spc-panel/</link><guid isPermaLink="false">934-5798</guid><pubDate>Wed, 17 Apr 2024 15:09:39 +0000</pubDate></item><item><title>SPC Chart 2.0.2</title><link>https://grafana.com/grafana/plugins/kensobi-spc-panel/</link><guid isPermaLink="false">934-6717</guid><pubDate>Fri, 29 Nov 2024 13:15:40 +0000</pubDate></item><item><title>SPC Chart 2.1.1</title><link>https://grafana.com/grafana/plugins/kensobi-spc-panel/</link><description>&lt;h1&gt;Changelog&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SPC Chart</title><link>https://github.com/KensoBI/spc-chart</link><description>Create common SPC charts like Xbar-R, XbarS, and XmR charts.</description><category>panel</category><category>spc</category><category>chart</category><category>kensobi</category><category>xbar</category><category>xmr</category><category>control chart</category><category>statistical process control</category><category>quality</category><category>shewhart</category><category>control limits</category><category>ucl</category><category>lcl</category><category>moving range</category><category>six sigma</category><category>process capability</category><category>manufacturing</category><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 28 Apr 2026 13:03:33 +0000</lastBuildDate><item><title>SPC Chart 1.0.1</title><link>https://grafana.com/grafana/plugins/kensobi-spc-panel/</link><guid isPermaLink="false">934-5482</guid><pubDate>Mon, 08 Jan 2024 16:37:51 +0000</pubDate></item><item><title>SPC Chart 1.0.2</title><link>https://grafana.com/grafana/plugins/kensobi-spc-panel/</link><guid isPermaLink="false">934-5622</guid><pubDate>Tue, 27 Feb 2024 10:14:53 +0000</pubDate></item><item><title>SPC Chart 1.0.3</title><link>https://grafana.com/grafana/plugins/kensobi-spc-panel/</link><guid isPermaLink="false">934-5798</guid><pubDate>Wed, 17 Apr 2024 15:09:39 +0000</pubDate></item><item><title>SPC Chart 2.0.2</title><link>https://grafana.com/grafana/plugins/kensobi-spc-panel/</link><guid isPermaLink="false">934-6717</guid><pubDate>Fri, 29 Nov 2024 13:15:40 +0000</pubDate></item><item><title>SPC Chart 2.1.1</title><link>https://grafana.com/grafana/plugins/kensobi-spc-panel/</link><guid isPermaLink="false">934-8950</guid><pubDate>Mon, 02 Feb 2026 15:56:36 +0000</pubDate></item><item><title>SPC Chart 2.2.0</title><link>https://grafana.com/grafana/plugins/kensobi-spc-panel/</link><description>&lt;h1&gt;Changelog&lt;/h1&gt;
+&lt;h2&gt;2.2.0&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;New Features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Numeric X-axis Support&lt;/strong&gt;: Added support for numeric X-axis to enable SPC charting for indexed/sequential data sources.
+&lt;ul&gt;
+&lt;li&gt;New X-axis field selector allows switching between Time (default) and numeric fields&lt;/li&gt;
+&lt;li&gt;Works similarly to Grafana's built-in Trend panel&lt;/li&gt;
+&lt;li&gt;Perfect for analyzing data with sample numbers or sequence indices (e.g., 1, 2, 3...) instead of timestamps&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-field Control Lines&lt;/strong&gt;: Enhanced control line functionality for datasets with multiple numeric fields.
+&lt;ul&gt;
+&lt;li&gt;Field selector for computed control lines (LCL, UCL, Mean) when multiple numeric fields exist&lt;/li&gt;
+&lt;li&gt;Automatically hidden when only one numeric field is present to reduce UI complexity&lt;/li&gt;
+&lt;li&gt;Enables proper SPC monitoring of multiple measurements in a single dataset&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Compatibility:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Maintains full backward compatibility with existing time-based SPC charts&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;2.1.1&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;New Features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -66,4 +86,4 @@
 &lt;li&gt;Add backward compatibility to Grafana &amp;gt;=9.5.7.&lt;/li&gt;
 &lt;li&gt;Add ability to enter additional constants columns taken from the database using SQL entered as Table. See &lt;a href="https://docs.kensobi.com/panels/spc" target="_blank"&gt;documentation&lt;/a&gt; for more information.&lt;/li&gt;
 &lt;/ul&gt;
-</description><guid isPermaLink="false">934-8950</guid><pubDate>Mon, 02 Feb 2026 15:56:36 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">934-9765</guid><pubDate>Tue, 28 Apr 2026 13:03:31 +0000</pubDate></item></channel></rss>
